@@ -11,7 +11,7 @@
       
       "spancount": 1,
           
-        "isGuide":true,
+        "isGuide":false,
         
       "fan": false,
       "snf":"mix",
@@ -36,7 +36,7 @@
        "shownative":false,
       
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
@@ -62,7 +62,7 @@
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
         ],
         [
-          true,
+          false,
           "آرسنال VS تشيلسي",
           "https://dyxkiuqegrjxt.cloudfront.net/out/v1/51bd426b5022421e87bd21294a091dfe/index_4.m3u8",
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
@@ -80,9 +80,9 @@
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          false,
-          "ManU Vs ManCity",
-          "http://akamai2-mx.cdn.booyah.live/hls/250170/36385570.m3u8",
+          true,
+          "ManU Vs ",
+          "https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_3.m3u8",
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
         ],
         [
@@ -140,31 +140,31 @@
           "https://www.cimoandroid.com/morocco/pictures/medi1tv.png"
         ],
         [
-          true,
+          false,
           "2m monde",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/my2m.jpg"
         ],
         [
-          true,
+          false,
           "Al Aoula",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/alaoula.png"
         ],
         [
-          true,
+          false,
           "Al Maghribia",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/almaghribia.png"
         ],
         [
-          true,
+          false,
           "Arriyadia",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/arriyadia.png"
         ],
         [
-          true,
+          false,
           "Assadissa",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/assadissa.png"
@@ -176,43 +176,43 @@
           "https://www.cimoandroid.com/morocco/pictures/attakafiya.png"
         ],
         [
-          true,
+          false,
           "AlAoula Laayoune",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/laayoune.png"
         ],
         [
-          true,
+          false,
           "Tamazight",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/tamazight.png"
         ],
         [
-          true,
+          false,
           "M24 TV",
           "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8",
           "https://www.m24tv.ma/sites/default/files/LOGO-M24-VF-sans-texte.png"
         ],
         [
-          true,
+          false,
           "Alarabiya",
           "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_aa.jpg"
         ],
         [
-          true,
+          false,
           "Al Hadath",
           "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_hadath.jpg"
         ],
         [
-          true,
+          false,
           "AlJazeera Documentary",
           "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          "true",
+          false,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
