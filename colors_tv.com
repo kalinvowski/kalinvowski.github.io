@@ -170,7 +170,7 @@
           "https://www.cimoandroid.com/morocco/pictures/assadissa.png"
         ],
         [
-          true,
+          false,
           "Arrabiaa",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/attakafiya.png"
