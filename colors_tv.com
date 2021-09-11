@@ -43,14 +43,9 @@
       },
       
       
-      "tvliveremove": [
-        "Télé Maroc",
-        "https://player-api.new.livestream.com/accounts/27130247/events/8196478/broadcasts/212873574.secure.m3u8",
-        "https://www.telemaroc.tv/img/logo.png"
-      ],
       "color_tv": [
         [
-          true,
+          false,
           "Marseille Vs ",
           "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
@@ -58,8 +53,8 @@
         [
           true,
           "Messi ",
-          "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
-          "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8"
+          "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
+          "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
         ],
         [
           false,
