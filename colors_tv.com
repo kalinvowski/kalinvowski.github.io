@@ -63,7 +63,7 @@
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
-          true,
+          false,
           "Athletico Vs ",
           "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
@@ -97,6 +97,12 @@
           "Man City Vs Sou ",
           "https://video-ams.xx.fbcdn.net/hvideo-ash115/_nc_ohc-MwKG8IwrWQ0AX_sJFt4/_nc_cat-111/v/ro81AgkcNfPeH_cttPmQt/live-dash/dash-abr-ibr-audio/116301106987017_0.mpd?_nc_rl=AfBOWH5LDsvjzoG9dTM&lvp=1&oh=74b11292fa69ba549788880ecf43133e&oe=5FDFAB8E",
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
+        ],
+        [
+          true,
+          "Milan Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
         ],
         [
           true,
