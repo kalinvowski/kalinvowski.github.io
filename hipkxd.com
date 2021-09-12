@@ -2,7 +2,7 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
+      "com": true,
       "published": true,
       
       "version": 1,
@@ -41,7 +41,7 @@
             ] 
       ],
       "showOnlyOpen":false,
-      "NativeCount": 3,
+      "NativeCount": 1,
       "fan": false,
       "snf": "mix",
       "adsfan": {
@@ -49,14 +49,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-6865356671676191/1885685019",
-        "admb_openad": "ca-app-pub-6865356671676191/7117475173",
-        "admb_inters": "ca-app-pub-6865356671676191/6483405576",
-        "admb_native": "ca-app-pub-6865356671676191/6949954211"
+        "admb_banner": "ca-app-pub-2467024233846885/1334095292",
+        "admb_openad": "ca-app-pub-2467024233846885/6249356539",
+        "admb_inters": "ca-app-pub-2467024233846885/5490808631",
+        "admb_native": "ca-app-pub-2467024233846885/9238481959"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
