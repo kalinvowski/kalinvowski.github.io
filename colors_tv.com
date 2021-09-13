@@ -21,19 +21,19 @@
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
       
-      "showopenad":false,
-      "admob": false,
+      "showopenad":true,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admb_openad": "ca-app-pub-3940256099942544/3419835294",
-        "admb_inters": "ca-app-pub-3940256099942544/1033173712",
-        "admb_rewarded_inters": "ca-app-pub-3940256099942544/5354046379",
-        "admb_native": "ca-app-pub-3940256099942544/2247696110"
+        "admb_banner": "ca-app-pub-2467024233846885/2593251702",
+        "admb_openad": "ca-app-pub-2467024233846885/4705583184",
+        "admb_inters": "ca-app-pub-2467024233846885/9314572720",
+        "admb_rewarded_inters": "ca-app-pub-2467024233846885/9314572720",
+        "admb_native": "ca-app-pub-2467024233846885/4392105455"
       },
       
        
        "shownativerecycler":false,
-       "shownative":false,
+       "shownative":true,
       
       
       "unity": true,
