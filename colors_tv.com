@@ -36,7 +36,7 @@
        "shownative":true,
       
       
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
@@ -171,7 +171,7 @@
           "https://www.cimoandroid.com/morocco/pictures/almaghribia.png"
         ],
         [
-          false,
+          true,
           "Arriyadia",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/arriyadia.png"
@@ -213,19 +213,19 @@
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_aa.jpg"
         ],
         [
-          false,
+          true,
           "Al Hadath",
           "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_hadath.jpg"
         ],
         [
-          false,
+          true,
           "AlJazeera Documentary",
           "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          false,
+          true,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
