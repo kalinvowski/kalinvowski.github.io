@@ -24,15 +24,15 @@
       "showopenad":true,
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2467024233846885/2593251702",
-        "admb_openad": "ca-app-pub-2467024233846885/4705583184",
-        "admb_inters": "ca-app-pub-2467024233846885/9314572720",
-        "admb_rewarded_inters": "ca-app-pub-2467024233846885/9314572720",
-        "admb_native": "ca-app-pub-2467024233846885/4392105455"
+        "admb_banner": "ca-app-pub-7144089957930196/2138558779",
+        "admb_openad": "ca-app-pub-7144089957930196/8711705985",
+        "admb_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_rewarded_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_native": "ca-app-pub-7144089957930196/4597201157"
       },
       
        
-       "shownativerecycler":false,
+       "shownativerecycler":true,
        "shownative":true,
       
       
