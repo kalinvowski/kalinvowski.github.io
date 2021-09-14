@@ -13,16 +13,16 @@
           
         "isGuide":false,
         
-      "fan": false,
-      "snf":"mix",
+      "fan": true,
+      "snf":"nb",
       "adsfan": {
-        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
-        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
-        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+        "fan_inters": "236879271577850_236879334911177",
+        "fan_native": "236879271577850_236879344911176",
+        "fan_native_banner": "236879271577850_236879348244509"
       },
       
-      "showopenad":true,
-      "admob": true,
+      "showopenad":false,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/2138558779",
         "admb_openad": "ca-app-pub-7144089957930196/8711705985",
