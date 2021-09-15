@@ -11,12 +11,12 @@
       
       "spancount": 1,
           
-        "isGuide":true,
+        "isGuide":false,
         
       "fan": true,
       "snf":"nb",
       "adsfan": {
-        "fan_inters": "236879271577850_236879334911177",
+        "fan_inters": "236879271577850_237465518185892",
         "fan_native": "236879271577850_236879344911176",
         "fan_native_banner": "236879271577850_236879348244509"
       },
@@ -33,7 +33,7 @@
       
        
        "shownativerecycler":true,
-       "shownative":false,
+       "shownative":true,
       
       
       "unity": false,
