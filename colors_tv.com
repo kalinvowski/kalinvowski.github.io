@@ -11,7 +11,7 @@
       
       "spancount": 1,
           
-        "isGuide":false,
+        "isGuide":true,
         
       "fan": true,
       "snf":"nb",
@@ -33,7 +33,7 @@
       
        
        "shownativerecycler":true,
-       "shownative":true,
+       "shownative":false,
       
       
       "unity": false,
