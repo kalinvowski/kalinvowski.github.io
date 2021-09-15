@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "videos": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
-      "video": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
+      "video": "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
+      "videos": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
       "privacy": "https://kalinvowski.github.io/privacy.html",
       
       "spancount": 1,
