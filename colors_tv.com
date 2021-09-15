@@ -32,7 +32,7 @@
       },
        
 
-       "shownativerecycler":true,
+       "shownativerecycler":false,
        "shownative":true,
       
       
