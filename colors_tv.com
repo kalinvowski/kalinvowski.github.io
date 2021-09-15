@@ -13,7 +13,7 @@
           
         "isGuide":false,
         
-      "fan": true,
+      "fan": false,
       "snf":"mix",
       "adsfan": {
         "fan_inters": "236879271577850_237465518185892",
@@ -21,17 +21,17 @@
         "fan_native_banner": "236879271577850_236879348244509"
       },
       
-      "showopenad":false,
-      "admob": false,
+      "showopenad":true,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-7144089957930196/2138558779",
-        "admb_openad": "ca-app-pub-7144089957930196/8711705985",
-        "admb_inters": "ca-app-pub-7144089957930196/7198834839",
-        "admb_rewarded_inters": "ca-app-pub-7144089957930196/7198834839",
-        "admb_native": "ca-app-pub-7144089957930196/4597201157"
+        "admb_banner": "ca-app-pub-7144089957930196/7386289674",
+        "admb_openad": "ca-app-pub-7144089957930196/1173262781",
+        "admb_inters": "ca-app-pub-7144089957930196/2486344454",
+        "admb_rewarded_inters": "ca-app-pub-7144089957930196/2486344454",
+        "admb_native": "ca-app-pub-7144089957930196/3814903847"
       },
-      
        
+
        "shownativerecycler":true,
        "shownative":true,
       
