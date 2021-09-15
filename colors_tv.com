@@ -14,7 +14,7 @@
         "isGuide":false,
         
       "fan": true,
-      "snf":"nb",
+      "snf":"mix",
       "adsfan": {
         "fan_inters": "236879271577850_237465518185892",
         "fan_native": "236879271577850_236879344911176",
@@ -219,7 +219,7 @@
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_aa.jpg"
         ],
         [
-          true,
+          false,
           "Al Hadath",
           "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_hadath.jpg"
