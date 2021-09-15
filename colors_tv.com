@@ -22,7 +22,7 @@
       },
       
       "showopenad":true,
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/7386289674",
         "admb_openad": "ca-app-pub-7144089957930196/1173262781",
@@ -81,9 +81,9 @@
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
         ],
         [
-          false,
-          "Inter Vs NAP",
-          "https://akamai2-mx.cdn.booyah.live/hls/210154/32833153.m3u8",
+          true,
+          "Inter Vs RMA",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
         ],
         [
@@ -93,27 +93,27 @@
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
         ],
         [
-          false,
+          true,
           "RMA Vs ",
-          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
         ],
         [
-          false,
-          "Man City Vs Sou ",
-          "https://video-ams.xx.fbcdn.net/hvideo-ash115/_nc_ohc-MwKG8IwrWQ0AX_sJFt4/_nc_cat-111/v/ro81AgkcNfPeH_cttPmQt/live-dash/dash-abr-ibr-audio/116301106987017_0.mpd?_nc_rl=AfBOWH5LDsvjzoG9dTM&lvp=1&oh=74b11292fa69ba549788880ecf43133e&oe=5FDFAB8E",
+          true,
+          "Man City Vs Lap ",
+          "https://d273s7pioey7ib.cloudfront.net/out/v1/2c23f4d49a5e464c83fb76bc931ed9ef/index_3.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
         ],
         [
-          false,
+          true,
           "Milan Vs ",
-          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
           "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
         ],
         [
-          false,
+          true,
           "Liverpool Vs ",
-          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
         ],
         [
@@ -141,9 +141,9 @@
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          false,
+          true,
           "PSG Vs ",
-          "https://d3las0o2fow45s.cloudfront.net/out/v1/c93aef40f5534dd1b42dc7d6e375d72e/index_3.m3u8",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
         ],
         [
@@ -231,7 +231,7 @@
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          true,
+          false,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
