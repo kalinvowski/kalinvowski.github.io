@@ -117,9 +117,9 @@
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
         ],
         [
-          false,
-          "Bayern M Vs Bayer L",
-          "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+          true,
+          "Bayern M Vs ",
+          "https://d273s7pioey7ib.cloudfront.net/out/v1/2c23f4d49a5e464c83fb76bc931ed9ef/index_4.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/ger_bayern_munchen-e1606400353379.png"
         ],
         [
