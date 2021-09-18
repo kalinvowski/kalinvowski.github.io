@@ -141,9 +141,9 @@
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          false,
+          true,
           "PSG Vs ",
-          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+          "http://7.amaniyouhra.xyz/live/10011244/index.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
         ],
         [
