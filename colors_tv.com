@@ -81,9 +81,9 @@
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
         ],
         [
-          false,
-          "Inter Vs RMA",
-          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+          true,
+          "Inter Vs ",
+          "https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_3.m3u8",
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
         ],
         [
