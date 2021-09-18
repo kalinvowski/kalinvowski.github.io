@@ -75,9 +75,9 @@
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
         ],
         [
-          false,
-          "آرسنال VS تشيلسي",
-          "https://dyxkiuqegrjxt.cloudfront.net/out/v1/51bd426b5022421e87bd21294a091dfe/index_4.m3u8",
+          true,
+          "Arsenal VS ",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
         ],
         [
@@ -101,7 +101,7 @@
         [
           true,
           "Man City Vs Lap ",
-          "http://10.alysineoura.xyz/live/79481245/index.m3u8",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
         ],
         [
