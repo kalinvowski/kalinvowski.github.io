@@ -69,13 +69,13 @@
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
-          true,
+          false,
           "Athletico Vs ",
           "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_4.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
         ],
         [
-          true,
+          false,
           "Arsenal VS ",
           "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
@@ -99,7 +99,7 @@
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
         ],
         [
-          true,
+          false,
           "Man City Vs Lap ",
           "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
@@ -117,7 +117,7 @@
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
         ],
         [
-          true,
+          false,
           "Bayern M Vs ",
           "https://d273s7pioey7ib.cloudfront.net/out/v1/2c23f4d49a5e464c83fb76bc931ed9ef/index_4.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/ger_bayern_munchen-e1606400353379.png"
