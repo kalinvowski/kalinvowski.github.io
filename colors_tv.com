@@ -51,9 +51,9 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
         ],
         [
-          false,
+          true,
           "sevilla Vs ",
-          "https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_3.m3u8",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png"
         ],
         [
@@ -129,9 +129,9 @@
           "https://i.pinimg.com/originals/fd/f4/49/fdf4497e1b8a70547185fae69d219728.jpg"
         ],
         [
-          false,
-          "Chelsea Vs woves",
-          "https://centurylink.br.cdn.booyah.live/hls/1000012/36606918.m3u8",
+          true,
+          "Chelsea Vs toth",
+          "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
           "https://i.pinimg.com/originals/78/98/af/7898af50d726a143dfa3a694051199c6.jpg"
         ],
         [
