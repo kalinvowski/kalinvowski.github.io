@@ -81,7 +81,7 @@
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
         ],
         [
-          true,
+          false,
           "Inter Vs ",
           "https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_3.m3u8",
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
@@ -141,7 +141,7 @@
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          true,
+          false,
           "PSG Vs ",
           "http://7.amaniyouhra.xyz/live/10011244/index.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
