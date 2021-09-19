@@ -153,6 +153,24 @@
           "https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png"
         ],
         [
+          true,
+          "AD Sports 3",
+          "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+          "https://img.youtube.com/vi/2fhBvH_-tNM/maxresdefault.jpg"
+        ],
+        [
+          true,
+          "AD Sports 2",
+          "https://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8",
+          "https://img.youtube.com/vi/TmICalJ9gI8/maxresdefault.jpg"
+        ],
+        [
+          true,
+          "Chariqa Sport",
+          "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8",
+          "https://img.youtube.com/vi/eC2FCTh6PCw/maxresdefault.jpg"
+        ],
+        [
           false,
           "Medi1tv",
           "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8",
