@@ -51,10 +51,16 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
         ],
         [
-          true,
+          false,
           "sevilla Vs ",
           "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png"
+        ],
+        [
+          true,
+          "Espanyol Vs ",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+          "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Rcd_espanyol_logo.svg/1200px-Rcd_espanyol_logo.svg.png"
         ],
         [
           true,
@@ -94,6 +100,12 @@
         ],
         [
           true,
+          "Roma Vs ",
+          "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_3.m3u8",
+          "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png"
+        ],
+        [
+          true,
           "ManU Vs ",
           "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
@@ -129,7 +141,7 @@
           "https://www.as-goal.com/wp-content/uploads/2020/11/ger_bayern_munchen-e1606400353379.png"
         ],
         [
-          true,
+          false,
           "Borussia Dortmund Vs ",
           "https://d273s7pioey7ib.cloudfront.net/out/v1/2c23f4d49a5e464c83fb76bc931ed9ef/index_3.m3u8",
           "https://data.arab48.com/data/news/2021/03/19/Croped/20210319094246.jpg"
