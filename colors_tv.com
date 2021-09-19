@@ -45,9 +45,9 @@
       
       "color_tv": [
         [
-          false,
+          true,
           "Marseille Vs ",
-          "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
+          "http://7.amaniyouhra.xyz/live/10011244/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
         ],
         [
@@ -127,6 +127,12 @@
           "Bayern M Vs ",
           "https://d273s7pioey7ib.cloudfront.net/out/v1/2c23f4d49a5e464c83fb76bc931ed9ef/index_4.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/ger_bayern_munchen-e1606400353379.png"
+        ],
+        [
+          true,
+          "Borussia Dortmund Vs ",
+          "https://d273s7pioey7ib.cloudfront.net/out/v1/2c23f4d49a5e464c83fb76bc931ed9ef/index_3.m3u8",
+          "https://data.arab48.com/data/news/2021/03/19/Croped/20210319094246.jpg"
         ],
         [
           false,
