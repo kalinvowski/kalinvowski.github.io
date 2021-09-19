@@ -81,6 +81,12 @@
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
         ],
         [
+          true,
+          "Leicester City VS ",
+          "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_3.m3u8",
+          "https://upload.wikimedia.org/wikipedia/ar/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png"
+        ],
+        [
           false,
           "Inter Vs ",
           "https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_3.m3u8",
